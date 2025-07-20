@@ -1,0 +1,6 @@
+@GitOut_Vogel_HostAddress = http://localhost:5095
+
+GET {{GitOut_Vogel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
